@@ -2,6 +2,18 @@
 
 This is a real-time chat application built with Node.js and React.js, leveraging the power of socket.io for real-time communication.
 
+# Installation Guide Lines
+
+## Backend
+
+    1. npm i
+    2. npm start
+
+## FrontEnd
+
+    1. yarn
+    2. yarn start
+
 ## Features
 
 1. **Multiple Rooms**: Users can join different rooms and send messages to those rooms. This allows for segmented conversations and discussions, catering to different user interests or topics.

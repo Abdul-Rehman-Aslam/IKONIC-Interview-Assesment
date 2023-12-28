@@ -1,6 +1,10 @@
 {
   "name": "client",
   "version": "0.1.0",
+  "author": {
+    "name": "Abdul Rehman Aslam",
+    "email": "ar000381@gmail.com"
+  },
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^1.1.5",
